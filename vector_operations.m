@@ -4,5 +4,6 @@ B = [4 5 6]
 
 % check vector length
 if length (A) == length(B)
+% add the two vectors
   result = A + B;
 end
