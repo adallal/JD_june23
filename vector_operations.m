@@ -6,5 +6,6 @@ B = [4 5 6]
 if length (A) == length(B)
 % add the two vectors
   result = A + B;
+  % subtract the two vectors
   diff = A - B;
 end
